@@ -1,8 +1,8 @@
 # angular-ecommerce
-Ecommerce portal where some of the user(Seller) who want to sell the product and services using this and some of the user(Buyer/End User) who needs the product they can buy from the user(Seller)
+Ecommerce portal where user(Seller) can sell the product and offer services using this platform and user(Buyer/End User) can buy from the user(Seller)
 
 # Project Setup
-**Step 1:** clone the project: ``` git clone https://github.com/SrikrushnaP/angular-ecommerce.git ```
+**Step 1:** clone the project: ``` git clone https://github.com/Nrapendra786/ecommerce-application.git ```
 
 **Step 2:** ``` cd angular-ecommerce ```
 
